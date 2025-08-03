@@ -17,6 +17,7 @@ public class SpringProject1Application {
 //		emp1.name = "ajay";
 //		emp1.email = "ajay123@gmail.com";
 //		emp1.Designation = "Developer";
+
 //		Address address1 = new Address();
 //		address1.HNo = 654;
 //		address1.StreetName = "Jeevan bihar";
