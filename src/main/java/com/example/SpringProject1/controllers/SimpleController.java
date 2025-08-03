@@ -10,7 +10,6 @@ public class SimpleController {
 
     @GetMapping("/simple")
     public String getSimple(){
-
         return "hey i am simple";
     }
 }
